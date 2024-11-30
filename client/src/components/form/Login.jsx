@@ -30,7 +30,7 @@ const Login = ({user}) => {
 		console.log('hello')
 		try{
 			  
-				const response = await axios.post('https://meshop-r6ed.onrender.com//user/login',loginData)
+				const response = await axios.post('https://meshop-r6ed.onrender.com/user/login',loginData)
 				if(response.status == 200){
 					// console.log(response.data.message);
 					// console.log(response.data.username)

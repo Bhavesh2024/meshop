@@ -12,7 +12,7 @@ import axios from 'axios'
 export const logoutAdmin = async() =>{
 	const user = localStorage.getItem('user');
 	try{
-		const response = await axios.post('https://meshop-r6ed.onrender.com//admin/logout',{username:user},{withCredentials:true});
+		const response = await axios.post('https://meshop-r6ed.onrender.com/admin/logout',{username:user},{withCredentials:true});
 		if(response.status == 200){
 			localStorage.setItem('isLogin',false);
 			localStorage.setItem('user','');
@@ -30,7 +30,7 @@ const AdminPanel = () => {
 	const [open,setOpen] = useState(false);
 	const checkIsLogin = async() =>{
 		try{
-			const response = await axios.post('https://meshop-r6ed.onrender.com//admin/auth',{username:user},{withCredentials:true});
+			const response = await axios.post('https://meshop-r6ed.onrender.com/admin/auth',{username:user},{withCredentials:true});
 			if(response.status == 200){
 				 console.log('hello')
 			

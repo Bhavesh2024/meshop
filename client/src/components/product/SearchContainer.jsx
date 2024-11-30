@@ -16,7 +16,7 @@ const SearchContainer = () => {
 
       setSearchValue(value);
       try{
-        const response = await axios.get(`https://meshop-r6ed.onrender.com//api/products/search/${value}`);
+        const response = await axios.get(`https://meshop-r6ed.onrender.com/api/products/search/${value}`);
         if(response.status == 200){
             // console.log(response.data.result)
             setSearchResult(response.data.result);

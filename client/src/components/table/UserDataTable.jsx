@@ -75,7 +75,7 @@ maxIndex = rows;
   };
 
 	const fetchUserData = async () => {
-		const response = await axios.get('https://meshop-r6ed.onrender.com//api/users');
+		const response = await axios.get('https://meshop-r6ed.onrender.com/api/users');
 
 		try {
 			if (response.status === 200) {
@@ -105,7 +105,7 @@ maxIndex = rows;
 		
 		try{
 
-			const response = await axios.delete(`https://meshop-r6ed.onrender.com//api/users/${username}`)
+			const response = await axios.delete(`https://meshop-r6ed.onrender.com/api/users/${username}`)
 
 			if(response.status == 200){
 						// setUserData(response.data.user);

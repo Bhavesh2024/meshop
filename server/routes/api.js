@@ -65,7 +65,7 @@ const storage = multer.diskStorage({
 			finalFileName = `${baseName}-${fileIndex}${fileExtension}`; // Append a counter
 			fileIndex += 1;
 		}
-		req.body.image = `https://meshop-r6ed.onrender.com//products/images/${
+		req.body.image = `https://meshop-r6ed.onrender.com/products/images/${
 			req.body.category === "headphone"
 				? req.body.category + "s"
 				: req.body.category

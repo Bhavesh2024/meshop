@@ -127,7 +127,7 @@ const validateField = (field, value) => {
 
   const fetchUser = async(username) =>{
       try{
-        const response = await axios.get(`https://meshop-r6ed.onrender.com//api/users/${username}`);
+        const response = await axios.get(`https://meshop-r6ed.onrender.com/api/users/${username}`);
 
         if(response.status == 200){
            setData(response.data);
@@ -141,7 +141,7 @@ const validateField = (field, value) => {
 
   const updateUser = async(username,userData) =>{
     try{
-      const response = await axios.put(`https://meshop-r6ed.onrender.com//api/users/${username}`,userData);
+      const response = await axios.put(`https://meshop-r6ed.onrender.com/api/users/${username}`,userData);
 
       if(response.status == 200){
         //  setData(response.data);

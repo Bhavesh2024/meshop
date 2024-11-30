@@ -60,7 +60,7 @@ const Navbar = () => {
 	// const getCartCount = async() =>{
 	// 	const user = localStorage.getItem('user');
 	// 	try{
-	// 		const response = await axios.get(`https://meshop-r6ed.onrender.com//api/users/${user}/cart`);
+	// 		const response = await axios.get(`https://meshop-r6ed.onrender.com/api/users/${user}/cart`);
 	// 		if(response.status == 200){
 	// 				setCartProductCount(response.data.cart.length);
 	// 		}
@@ -145,7 +145,7 @@ const Navbar = () => {
 		try {
 			console.log(username);
 			const response = await axios.post(
-				"https://meshop-r6ed.onrender.com//api/users/logout",
+				"https://meshop-r6ed.onrender.com/api/users/logout",
 				{ username: username }
 			);
 			if (response.status == 200) {
