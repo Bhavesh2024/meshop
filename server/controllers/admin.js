@@ -15,12 +15,12 @@ const handleLogin = async(req,res) =>{
      if(data.username == USERNAME){
        if(data.password == PASSWORD){
           const token = jwt.sign({username:USERNAME},KEY,{expiresIn:'15d'});
-          res.cookie('mes_access',token,{
-            httpOnly:false,
-            secure:false,
-            sameSite:true,
-            maxAge:15*24*60*60*1000
-          })
+          res.cookie('mes_access', token, {
+            httpOnly: true,   // Make sure cookie is not accessible via JavaScript
+            secure: 'production',  // Secure flag for HTTPS connections (only in production)
+            sameSite: 'None', // Allow cross-origin cookies
+            maxAge: 60 * 60 * 1000, // Cookie expiration time (1 hour in this example)
+          });
           return res.status(200).json({message:'Login Successfully'});
        } else{
           return res.status(409).json({message:'Password Not Matched'})
