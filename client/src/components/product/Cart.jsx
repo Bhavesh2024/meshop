@@ -21,7 +21,7 @@ const Cart = () => {
     try{
       // if(cartData.cart.length != 0){
         console.log('cart' + cartData.cart)
-        const respnonse = await axios.post(`http://localhost:5000/api/user/${username}/cart/detail`,{cart:cartData.cart});
+        const respnonse = await axios.post(`https://meshop-hx32.onrender.com/api/user/${username}/cart/detail`,{cart:cartData.cart});
         if(respnonse.status == 200){
            console.log(respnonse.data);
             setUserCartDetail(respnonse.data.detail);

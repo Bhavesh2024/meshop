@@ -30,7 +30,7 @@ const Login = ({user}) => {
 		console.log('hello')
 		try{
 			  
-				const response = await axios.post('http://localhost:5000/user/login',loginData)
+				const response = await axios.post('https://meshop-hx32.onrender.com/user/login',loginData)
 				if(response.status == 200){
 					// console.log(response.data.message);
 					// console.log(response.data.username)

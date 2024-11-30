@@ -94,7 +94,7 @@ const ProductDataTable = () => {
 		console.log(productId);
 		try {
 			const response = await axios.delete(
-				`http://localhost:5000/api/products/${productId}`
+				`https://meshop-hx32.onrender.com/api/products/${productId}`
 			);
 			if (response.status == 200) {
 				console.log(response);

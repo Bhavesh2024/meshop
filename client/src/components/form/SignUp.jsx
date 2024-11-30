@@ -220,7 +220,7 @@ const validateField = (field, value) => {
 
 						// console.log(request.status)
 						try{
-								 const request = await axios.post('http://localhost:5000/user/auth',{userData})
+								 const request = await axios.post('https://meshop-hx32.onrender.com/user/auth',{userData})
 								 console.log(request.data.message);
 									if(request.status == 200){
 										//  console.log(request.statusText)

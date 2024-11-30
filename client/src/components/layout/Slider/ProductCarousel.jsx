@@ -35,7 +35,7 @@ const ProductCarousel = ({category,children,label,autoPlaySpeed,autoPlay,infinit
 	const fetchProducts = async () =>{
 		console.log(category)
 		try{
-			const response = await axios.get(`http://localhost:5000/api/products/category/${category}`);
+			const response = await axios.get(`https://meshop-hx32.onrender.com/api/products/category/${category}`);
 
 			if(response.status == 200){
 				// console.log(response.data);

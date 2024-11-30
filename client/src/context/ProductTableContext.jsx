@@ -5,7 +5,7 @@ const ProductTableContextProvider = ({ children }) => {
 	const [productTableData, setProductTableData] = useState({});
 	const [slicedRowData, setSlicedRowData] = useState([]);
 	const fetchProducts = async (category = "All") => {
-		const url = `http://localhost:5000/api/products/${
+		const url = `https://meshop-hx32.onrender.com/api/products/${
 			category != "All" ? `category/${category}` : ""
 		}`;
 		console.log("url : " + url);

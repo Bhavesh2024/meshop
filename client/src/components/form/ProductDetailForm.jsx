@@ -32,7 +32,7 @@ const ProductDetailForm = ({ closeModal, type, id, category }) => {
   	const getProductFromId = async (productId) => {
 		try {
 			const response = await axios.get(
-				`http://localhost:5000/api/products/id/${productId}`
+				`https://meshop-hx32.onrender.com/api/products/id/${productId}`
 			);
 			if (response.status == 200) {
 				setProductData(response.data);
@@ -57,7 +57,7 @@ const ProductDetailForm = ({ closeModal, type, id, category }) => {
         if(validImage){
 					
 					const response = await axios.post(
-						"http://localhost:5000/api/products",
+						"https://meshop-hx32.onrender.com/api/products",
 						updatedData
 					);
 					if (response.status == 200) {
@@ -93,7 +93,7 @@ const ProductDetailForm = ({ closeModal, type, id, category }) => {
 					console.log(formData);
 					// Send formData in a POST request
 					const responseImage = await axios.post(
-						"http://localhost:5000/api/products/uploads",
+						"https://meshop-hx32.onrender.com/api/products/uploads",
 						formData,
 						{
 							headers: {
@@ -112,7 +112,7 @@ const ProductDetailForm = ({ closeModal, type, id, category }) => {
 						console.log(updatedData);
 		        setProductData(updatedData);
 						const response = await axios.post(
-							"http://localhost:5000/api/products",
+							"https://meshop-hx32.onrender.com/api/products",
 							updatedData
 						);
 						if (response.status == 200) {
@@ -174,7 +174,7 @@ const ProductDetailForm = ({ closeModal, type, id, category }) => {
 				// Send formData in a POST request
 	
 				const responseImage = await axios.post(
-					"http://localhost:5000/api/products/uploads",
+					"https://meshop-hx32.onrender.com/api/products/uploads",
 					formData,
 					{
 						headers: {
@@ -197,7 +197,7 @@ const ProductDetailForm = ({ closeModal, type, id, category }) => {
 				}
 			}
 			const response = await axios.put(
-						"http://localhost:5000/api/products",
+						"https://meshop-hx32.onrender.com/api/products",
 						productData
 					);
 					if (response.status == 200) {

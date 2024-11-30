@@ -11,7 +11,7 @@ const CartModal = () => {
   const username = localStorage.getItem('user');
   const fetchCartData = async() =>{
     try{
-      const response = await axios.get(`http://localhost:5000/api/users/${username}/cart`);
+      const response = await axios.get(`https://meshop-hx32.onrender.com/api/users/${username}/cart`);
 
       if(response.status == 200){
           console.log(response.data);

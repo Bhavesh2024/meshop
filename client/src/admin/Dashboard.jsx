@@ -25,10 +25,10 @@ const Dashboard = () => {
   };
 
   const lengthRouteList = [
-    { url: "http://localhost:5000/api/users", key: "user" },
-    { url: "http://localhost:5000/api/products/category/smartphones", key: "smartphone" },
-    { url: "http://localhost:5000/api/products/category/smartTvs", key: "smartTv" },
-    { url: "http://localhost:5000/api/products/category/headphones", key: "headphone" },
+    { url: "https://meshop-hx32.onrender.com/api/users", key: "user" },
+    { url: "https://meshop-hx32.onrender.com/api/products/category/smartphones", key: "smartphone" },
+    { url: "https://meshop-hx32.onrender.com/api/products/category/smartTvs", key: "smartTv" },
+    { url: "https://meshop-hx32.onrender.com/api/products/category/headphones", key: "headphone" },
   ];
 
   useEffect(() => {
