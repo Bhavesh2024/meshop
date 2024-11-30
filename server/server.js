@@ -10,7 +10,7 @@ const cookieParser = require("cookie-parser");
 require('dotenv').config();
 app.use(
 	cors({
-		origin: "https://meshop-sr1f-4rdehw7bh-bhavesh2024s-projects.vercel.app",
+		origin: "https://meshop-sr1f.vercel.app",
 		method: "GET,POST,PUT,PATCH,DELETE",
 		allowedHeaders: ["Content-Type", "Authorization"],
 		credentials:true
