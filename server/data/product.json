@@ -1,0 +1,4425 @@
+{
+  "smartphones": [
+    {
+      "product_id": "MSE007",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/11-1.jpg",
+      "product_name": "Pixel ",
+      "brand": "Google",
+      "price": "67224.00",
+      "discount": "20",
+      "final_price": "53779.20",
+      "description": "The Google Smartphone Model 900 by Xiaomi offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.7",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE008",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/16.jpg",
+      "product_name": "iPhone 12 Pro",
+      "brand": "Apple",
+      "price": "92433.00",
+      "discount": "15",
+      "final_price": "78568.05",
+      "description": "The Apple Smartphone Model 517 by OnePlus offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.2",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE009",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/17.jpg",
+      "product_name": "Redmi Note 10",
+      "brand": "Xiaomi",
+      "price": "84030.00",
+      "discount": "15",
+      "final_price": "71425.50",
+      "description": "The Xiaomi Smartphone Model 380 by Samsung offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.4",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE010",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/18.jpg",
+      "product_name": "Pixel 3a",
+      "brand": "Google",
+      "price": "75627.00",
+      "discount": "25",
+      "final_price": "56720.25",
+      "description": "The Google Smartphone Model 439 by Google offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.7",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE011",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/19.jpg",
+      "product_name": "iPhone 11",
+      "brand": "Apple",
+      "price": "67224.00",
+      "discount": "20",
+      "final_price": "53779.20",
+      "description": "The Apple Smartphone Model 575 by OnePlus offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "5.0",
+      "stock_status": "Out of Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE012",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/2.jpg",
+      "product_name": "iPhone 11 Pro",
+      "brand": "Apple",
+      "price": "75627.00",
+      "discount": "15",
+      "final_price": "64282.95",
+      "description": "The Apple Smartphone Model 576 by Samsung offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.8",
+      "stock_status": "Out of Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE013",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/20.jpg",
+      "product_name": "Mi 10",
+      "brand": "Xiaomi",
+      "price": "58821.00",
+      "discount": "5",
+      "final_price": "55879.95",
+      "description": "The Xiaomi Smartphone Model 691 by Xiaomi offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.2",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE014",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/21.jpg",
+      "product_name": "OnePlus 8",
+      "brand": "OnePlus",
+      "price": "58821.00",
+      "discount": "5",
+      "final_price": "55879.95",
+      "description": "The OnePlus Smartphone Model 338 by Xiaomi offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "5.0",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE015",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/22.jpg",
+      "product_name": "OnePlus Nord",
+      "brand": "OnePlus",
+      "price": "84030.00",
+      "discount": "10",
+      "final_price": "75627.00",
+      "description": "The OnePlus Smartphone Model 344 by Xiaomi offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.6",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE016",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/23.jpg",
+      "product_name": "iPhone XR",
+      "brand": "Apple",
+      "price": "92433.00",
+      "discount": "15",
+      "final_price": "78568.05",
+      "description": "The Apple Smartphone Model 861 by Apple offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.0",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE017",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/24.jpg",
+      "product_name": "OnePlus 7T",
+      "brand": "OnePlus",
+      "price": "58821.00",
+      "discount": "10",
+      "final_price": "52938.90",
+      "description": "The OnePlus Smartphone Model 424 by OnePlus offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.7",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE018",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/25.jpg",
+      "product_name": "Pixel 4",
+      "brand": "Google",
+      "price": "84030.00",
+      "discount": "5",
+      "final_price": "79828.50",
+      "description": "The Google Smartphone Model 442 by Samsung offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.8",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE019",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/26.jpg",
+      "product_name": "iPhone 8",
+      "brand": "Apple",
+      "price": "58821.00",
+      "discount": "15",
+      "final_price": "49997.85",
+      "description": "The Apple Smartphone Model 705 by Samsung offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.1",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE020",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/27.jpg",
+      "product_name": "OnePlus 7 Pro",
+      "brand": "OnePlus",
+      "price": "92433.00",
+      "discount": "15",
+      "final_price": "78568.05",
+      "description": "The OnePlus Smartphone Model 386 by Apple offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "5.0",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE021",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/28.jpg",
+      "product_name": "iPhone SE",
+      "brand": "Apple",
+      "price": "84030.00",
+      "discount": "5",
+      "final_price": "79828.50",
+      "description": "The Apple Smartphone Model 600 by Samsung offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.6",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE022",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/29.jpg",
+      "product_name": "Google Smartphone Model 103",
+      "brand": "Google",
+      "price": "67224.00",
+      "discount": "20",
+      "final_price": "53779.20",
+      "description": "The Google Smartphone Model 103 by Google offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.2",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE023",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/3.jpg",
+      "product_name": "Galaxy A51",
+      "brand": "Samsung",
+      "price": "58821.00",
+      "discount": "25",
+      "final_price": "44115.75",
+      "description": "The Samsung Smartphone Model 476 by Samsung offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.7",
+      "stock_status": "Out of Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE024",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/30.jpg",
+      "product_name": "Pixel 2 XL",
+      "brand": "Google",
+      "price": "84030.00",
+      "discount": "10",
+      "final_price": "75627.00",
+      "description": "The Google Smartphone Model 273 by Google offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.5",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE025",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/31.jpg",
+      "product_name": "Galaxy S20",
+      "brand": "Samsung",
+      "price": "92433.00",
+      "discount": "25",
+      "final_price": "69324.75",
+      "description": "The Samsung Smartphone Model 468 by Apple offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.8",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE026",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/32.jpg",
+      "product_name": "Poco X3",
+      "brand": "Xiaomi",
+      "price": "67224.00",
+      "discount": "10",
+      "final_price": "60501.60",
+      "description": "The Xiaomi Smartphone Model 323 by Apple offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.6",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE027",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/33.jpg",
+      "product_name": "Samsung Smartphone Model 826",
+      "brand": "Apple",
+      "price": "84030.00",
+      "discount": "25",
+      "final_price": "63022.50",
+      "description": "The Samsung Smartphone Model 826 by Apple offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.8",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE028",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/34.jpg",
+      "product_name": "iPhone 7",
+      "brand": "Apple",
+      "price": "67224.00",
+      "discount": "5",
+      "final_price": "63862.80",
+      "description": "The Apple Smartphone Model 357 by Google offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.4",
+      "stock_status": "Out of Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE029",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/35.jpg",
+      "product_name": "iPhone 6s",
+      "brand": "Apple",
+      "price": "58821.00",
+      "discount": "10",
+      "final_price": "52938.90",
+      "description": "The Apple Smartphone Model 377 by Apple offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.8",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE030",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/36.jpg",
+      "product_name": "Mi Mix 3",
+      "brand": "Xiaomi",
+      "price": "84030.00",
+      "discount": "20",
+      "final_price": "67224.00",
+      "description": "The Xiaomi Smartphone Model 315 by Samsung offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.1",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE031",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/37.jpg",
+      "product_name": "Redmi 9",
+      "brand": "Xiaomi",
+      "price": "67224.00",
+      "discount": "20",
+      "final_price": "53779.20",
+      "description": "The Xiaomi Smartphone Model 460 by Apple offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.6",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE032",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/38.jpg",
+      "product_name": "Mi 9T",
+      "brand": "Xiaomi",
+      "price": "58821.00",
+      "discount": "15",
+      "final_price": "49997.85",
+      "description": "The Xiaomi Smartphone Model 598 by Apple offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.2",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE033",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/39.jpg",
+      "product_name": "iPhone XR",
+      "brand": "Apple",
+      "price": "67224.00",
+      "discount": "15",
+      "final_price": "57140.40",
+      "description": "The Apple Smartphone Model 861 by Apple offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.6",
+      "stock_status": "Out of Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE034",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/4.jpg",
+      "product_name": "Samsung Smartphone Model 637",
+      "brand": "Google",
+      "price": "92433.00",
+      "discount": "15",
+      "final_price": "78568.05",
+      "description": "The Samsung Smartphone Model 637 by Google offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.1",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE035",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/40.jpg",
+      "product_name": "Google Smartphone Model 702",
+      "brand": "Xiaomi",
+      "price": "75627.00",
+      "discount": "25",
+      "final_price": "56720.25",
+      "description": "The Google Smartphone Model 702 by Xiaomi offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.4",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE036",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/41.jpg",
+      "product_name": "OnePlus Smartphone Model 279",
+      "brand": "Google",
+      "price": "84030.00",
+      "discount": "5",
+      "final_price": "79828.50",
+      "description": "The OnePlus Smartphone Model 279 by Google offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.7",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE037",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/42.jpg",
+      "product_name": "Apple Smartphone Model 159",
+      "brand": "Xiaomi",
+      "price": "58821.00",
+      "discount": "25",
+      "final_price": "44115.75",
+      "description": "The Apple Smartphone Model 159 by Xiaomi offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.8",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE038",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/43.jpg",
+      "product_name": "Apple Smartphone Model 452",
+      "brand": "Xiaomi",
+      "price": "84030.00",
+      "discount": "25",
+      "final_price": "63022.50",
+      "description": "The Apple Smartphone Model 452 by Xiaomi offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.9",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE039",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/44.jpg",
+      "product_name": "Samsung Smartphone Model 432",
+      "brand": "Apple",
+      "price": "92433.00",
+      "discount": "5",
+      "final_price": "87811.35",
+      "description": "The Samsung Smartphone Model 432 by Apple offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.5",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE040",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/45.jpg",
+      "product_name": "iPhone 5S",
+      "brand": "Apple",
+      "price": "58821.00",
+      "discount": "15",
+      "final_price": "49997.85",
+      "description": "The Apple Smartphone Model 990 by Xiaomi offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.0",
+      "stock_status": "Out of Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE041",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/46.jpg",
+      "product_name": "Apple Smartphone Model 114",
+      "brand": "Apple",
+      "price": "84030.00",
+      "discount": "20",
+      "final_price": "67224.00",
+      "description": "The Apple Smartphone Model 114 by Apple offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.9",
+      "stock_status": "Out of Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE042",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/47.jpg",
+      "product_name": "Xiaomi Smartphone Model 857",
+      "brand": "Samsung",
+      "price": "67224.00",
+      "discount": "20",
+      "final_price": "53779.20",
+      "description": "The Xiaomi Smartphone Model 857 by Samsung offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.9",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE043",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/48.jpg",
+      "product_name": "Samsung Smartphone Model 961",
+      "brand": "Google",
+      "price": "92433.00",
+      "discount": "15",
+      "final_price": "78568.05",
+      "description": "The Samsung Smartphone Model 961 by Google offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.4",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE044",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/49.jpg",
+      "product_name": "OnePlus Smartphone Model 786",
+      "brand": "OnePlus",
+      "price": "92433.00",
+      "discount": "15",
+      "final_price": "78568.05",
+      "description": "The OnePlus Smartphone Model 786 by OnePlus offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.7",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE045",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/5.jpg",
+      "product_name": "Apple Smartphone Model 978",
+      "brand": "OnePlus",
+      "price": "67224.00",
+      "discount": "5",
+      "final_price": "63862.80",
+      "description": "The Apple Smartphone Model 978 by OnePlus offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.1",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE046",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/50.jpg",
+      "product_name": "Google Smartphone Model 562",
+      "brand": "Samsung",
+      "price": "58821.00",
+      "discount": "20",
+      "final_price": "47056.80",
+      "description": "The Google Smartphone Model 562 by Samsung offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.3",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE047",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/6.jpg",
+      "product_name": "Samsung Smartphone Model 346",
+      "brand": "Google",
+      "price": "58821.00",
+      "discount": "25",
+      "final_price": "44115.75",
+      "description": "The Samsung Smartphone Model 346 by Google offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.1",
+      "stock_status": "Out of Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE048",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/7.jpg",
+      "product_name": "Galaxy Z Fold2",
+      "brand": "Samsung",
+      "price": "75627.00",
+      "discount": "15",
+      "final_price": "64282.95",
+      "description": "The Samsung Smartphone Model 770 by Xiaomi offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.5",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE049",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/8.jpg",
+      "product_name": "OnePlus 6",
+      "brand": "OnePlus",
+      "price": "67224.00",
+      "discount": "15",
+      "final_price": "57140.40",
+      "description": "The OnePlus Smartphone Model 484 by Apple offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.9",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE050",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/9.jpg",
+      "product_name": "Galaxy S10",
+      "brand": "Samsung",
+      "price": "84030.00",
+      "discount": "15",
+      "final_price": "71425.50",
+      "description": "The Samsung Smartphone Model 873 by Apple offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "6.1 inches",
+            "Super Retina XDR",
+            "OLED"
+          ]
+        },
+        {
+          "Processor": [
+            "A15 Bionic chip",
+            "6-core CPU"
+          ]
+        },
+        {
+          "Battery": [
+            "4000 mAh",
+            "Fast Charging",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "12 MP wide",
+            "4K video recording",
+            "Night Mode"
+          ]
+        },
+        {
+          "Operating System": [
+            "iOS 15"
+          ]
+        }
+      ],
+      "ratings": "4.7",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE004",
+      "category": "smartphone",
+      "image": "http://localhost:5000/products/images/smartphone/vivo-t3-5g-lite-12.jpg",
+      "product_name": "Vivo T3 Lite 5G",
+      "brand": "Vivo",
+      "price": "23599",
+      "discount": "10",
+      "final_price": "21239.1",
+      "description": "The Vivo T3 5G: the pinnacle of speed, innovation, and creativity. Powered by the MediaTek Dimensity 7200 chip, it's a fast smartphone, scoring 734+ on AnTuTu. With the segment's first Sony IMX882 OIS sensor, clear shots are guaranteed, even in low light. Immerse yourself in the 16.94 cm (6.67) 120 Hz Ultra Vision AMOLED display, unlocking a cinematic experience. Dual stereo speakers and a 5000 mAh battery with 44 W FlashCharge ensure an immersive audiovisual journey that lasts. Capture every moment with ultra-stable 4K video and super night portrait mode. Plus, enjoy seamless multitasking with 8 GB RAM and memory booster features. Elevate your mobile experience with the Vivo T3 5G, where speed meets innovation.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "pOLED"
+          ]
+        },
+        {
+          "Processor": [
+            "MediaTek Helio 700"
+          ]
+        },
+        {
+          "Battery": [
+            "Instant Charging"
+          ]
+        },
+        {
+          "Camera": [
+            "48MP Front 13MP Rear"
+          ]
+        },
+        {
+          "Operating System": [
+            "Android 14"
+          ]
+        }
+      ],
+      "ratings": 0,
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    }
+  ],
+  "smartTvs": [
+    {
+      "product_id": "MSE051",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/1.jpg",
+      "product_name": "Sony Smarttv Model 640",
+      "brand": "TCL",
+      "price": "50418.00",
+      "discount": "20",
+      "final_price": "40334.40",
+      "description": "The Sony Smarttv Model 640 by TCL offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.7",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE052",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/10.jpg",
+      "product_name": "TCL Smarttv Model 712",
+      "brand": "TCL",
+      "price": "42015.00",
+      "discount": "5",
+      "final_price": "39914.25",
+      "description": "The TCL Smarttv Model 712 by TCL offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.5",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE053",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/11.jpg",
+      "product_name": "TCL Smarttv Model 107",
+      "brand": "Vizio",
+      "price": "58821.00",
+      "discount": "15",
+      "final_price": "49997.85",
+      "description": "The TCL Smarttv Model 107 by Vizio offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.2",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE054",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/12.jpg",
+      "product_name": "Vizio Smarttv Model 402",
+      "brand": "Vizio",
+      "price": "50418.00",
+      "discount": "5",
+      "final_price": "47897.10",
+      "description": "The Vizio Smarttv Model 402 by Vizio offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.3",
+      "stock_status": "Out of Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE055",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/13.jpg",
+      "product_name": "Vizio Smarttv Model 263",
+      "brand": "Samsung",
+      "price": "58821.00",
+      "discount": "20",
+      "final_price": "49997.85",
+      "description": "The Vizio Smarttv Model 263 by Samsung offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.1",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE056",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/14.jpg",
+      "product_name": "Sony Smarttv Model 418",
+      "brand": "Samsung",
+      "price": "58821.00",
+      "discount": "25",
+      "final_price": "44115.75",
+      "description": "The Sony Smarttv Model 418 by Samsung offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.1",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE057",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/15.jpg",
+      "product_name": "Samsung Smarttv Model 736",
+      "brand": "Sony",
+      "price": "42015.00",
+      "discount": "25",
+      "final_price": "31511.25",
+      "description": "The Samsung Smarttv Model 736 by Sony offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.9",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE058",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/16.jpg",
+      "product_name": "Samsung Smarttv Model 604",
+      "brand": "TCL",
+      "price": "42015.00",
+      "discount": "10",
+      "final_price": "37813.50",
+      "description": "The Samsung Smarttv Model 604 by TCL offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.9",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE059",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/17.jpg",
+      "product_name": "Samsung Smarttv Model 645",
+      "brand": "Samsung",
+      "price": "50418.00",
+      "discount": "5",
+      "final_price": "47897.10",
+      "description": "The Samsung Smarttv Model 645 by Samsung offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.5",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE060",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/18.jpg",
+      "product_name": "TCL Smarttv Model 249",
+      "brand": "Vizio",
+      "price": "50418.00",
+      "discount": "15",
+      "final_price": "42855.30",
+      "description": "The TCL Smarttv Model 249 by Vizio offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.8",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE061",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/19.jpg",
+      "product_name": "Sony Smarttv Model 182",
+      "brand": "TCL",
+      "price": "58821.00",
+      "discount": "20",
+      "final_price": "47056.80",
+      "description": "The Sony Smarttv Model 182 by TCL offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.1",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE062",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/2.jpg",
+      "product_name": "TCL Smarttv Model 951",
+      "brand": "Samsung",
+      "price": "50418.00",
+      "discount": "15",
+      "final_price": "42855.30",
+      "description": "The TCL Smarttv Model 951 by Samsung offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "5.0",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE063",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/20.jpg",
+      "product_name": "Samsung Smarttv Model 748",
+      "brand": "Sony",
+      "price": "50418.00",
+      "discount": "25",
+      "final_price": "37813.50",
+      "description": "The Samsung Smarttv Model 748 by Sony offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.9",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE064",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/21.jpg",
+      "product_name": "LG Smarttv Model 494",
+      "brand": "LG",
+      "price": "67224.00",
+      "discount": "10",
+      "final_price": "60501.60",
+      "description": "The LG Smarttv Model 494 by LG offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.8",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE065",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/22.jpg",
+      "product_name": "TCL Smarttv Model 588",
+      "brand": "Sony",
+      "price": "75627.00",
+      "discount": "25",
+      "final_price": "56720.25",
+      "description": "The TCL Smarttv Model 588 by Sony offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.6",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE066",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/23.jpg",
+      "product_name": "Sony Smarttv Model 978",
+      "brand": "Samsung",
+      "price": "58821.00",
+      "discount": "5",
+      "final_price": "55879.95",
+      "description": "The Sony Smarttv Model 978 by Samsung offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "5.0",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE067",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/24.jpg",
+      "product_name": "Vizio Smarttv Model 214",
+      "brand": "Samsung",
+      "price": "42015.00",
+      "discount": "20",
+      "final_price": "33612.00",
+      "description": "The Vizio Smarttv Model 214 by Samsung offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.3",
+      "stock_status": "Out of Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE068",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/25.jpg",
+      "product_name": "Sony Smarttv Model 248",
+      "brand": "TCL",
+      "price": "75627.00",
+      "discount": "10",
+      "final_price": "68064.30",
+      "description": "The Sony Smarttv Model 248 by TCL offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.9",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE069",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/3.jpg",
+      "product_name": "LG Smarttv Model 639",
+      "brand": "Sony",
+      "price": "75627.00",
+      "discount": "10",
+      "final_price": "68064.30",
+      "description": "The LG Smarttv Model 639 by Sony offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.5",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE070",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/4.jpg",
+      "product_name": "LG Smarttv Model 775",
+      "brand": "TCL",
+      "price": "75627.00",
+      "discount": "25",
+      "final_price": "56720.25",
+      "description": "The LG Smarttv Model 775 by TCL offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.4",
+      "stock_status": "Out of Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE071",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/5.jpg",
+      "product_name": "Sony Smarttv Model 145",
+      "brand": "Samsung",
+      "price": "75627.00",
+      "discount": "10",
+      "final_price": "68064.30",
+      "description": "The Sony Smarttv Model 145 by Samsung offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.7",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE072",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/6.jpg",
+      "product_name": "Samsung Smarttv Model 194",
+      "brand": "Sony",
+      "price": "75627.00",
+      "discount": "20",
+      "final_price": "60501.60",
+      "description": "The Samsung Smarttv Model 194 by Sony offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.3",
+      "stock_status": "Out of Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE073",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/7.jpg",
+      "product_name": "Vizio Smarttv Model 798",
+      "brand": "Sony",
+      "price": "58821.00",
+      "discount": "5",
+      "final_price": "55879.95",
+      "description": "The Vizio Smarttv Model 798 by Sony offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.4",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE074",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/8.jpg",
+      "product_name": "Vizio Smarttv Model 113",
+      "brand": "LG",
+      "price": "58821.00",
+      "discount": "20",
+      "final_price": "47056.80",
+      "description": "The Vizio Smarttv Model 113 by LG offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "4.8",
+      "stock_status": "Out of Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE075",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/9.jpg",
+      "product_name": "Vizio Smarttv Model 248",
+      "brand": "TCL",
+      "price": "50418.00",
+      "discount": "5",
+      "final_price": "47897.10",
+      "description": "The Vizio Smarttv Model 248 by TCL offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "55 inches",
+            "QLED",
+            "4K UHD"
+          ]
+        },
+        {
+          "Resolution": [
+            "3840 x 2160",
+            "HDR10+",
+            "Dolby Vision"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Google Assistant",
+            "Alexa",
+            "Built-in Chromecast"
+          ]
+        },
+        {
+          "Ports": [
+            "4x HDMI",
+            "2x USB",
+            "Ethernet"
+          ]
+        },
+        {
+          "Audio": [
+            "20W speakers",
+            "Dolby Atmos"
+          ]
+        }
+      ],
+      "ratings": "5.0",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE102",
+      "category": "smartTv",
+      "image": "http://localhost:5000/products/images/smartTv/Redmi-F-Series-32-inch.jpg",
+      "product_name": "Redmi F Series ",
+      "brand": "MI",
+      "price": "24999",
+      "discount": "56",
+      "final_price": "10999.56",
+      "description": "Fire OS 7 | Supported Apps: Prime Video | Netflix | 12000+ apps from App Store | Voice Remote with Alexa | DTH Set-Top Box Integration to switch between DTH TV Channels and OTT apps from home screen | Display Mirroring - Airplay and Miracast",
+      "detailed_specifications": [
+        {
+          "Display": [
+            "LED"
+          ]
+        },
+        {
+          "Resolution": [
+            "720p"
+          ]
+        },
+        {
+          "Smart Features": [
+            "Wifi"
+          ]
+        },
+        {
+          "Ports": [
+            "2 USB"
+          ]
+        },
+        {
+          "Audio": [
+            "Dolby"
+          ]
+        }
+      ],
+      "ratings": 0,
+      "stock_status": "In Stock",
+      "warranty": "1 Year"
+    }
+  ],
+  "headphones": [
+    {
+      "product_id": "MSE076",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/1.jpg",
+      "product_name": "JBL Headphones Model 112",
+      "brand": "Sony",
+      "price": "21007.50",
+      "discount": "25",
+      "final_price": "15755.62",
+      "description": "The JBL Headphones Model 112 by Sony offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.3",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE077",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/10.jpg",
+      "product_name": "Bose Headphones Model 726",
+      "brand": "Sennheiser",
+      "price": "21007.50",
+      "discount": "20",
+      "final_price": "16806.00",
+      "description": "The Bose Headphones Model 726 by Sennheiser offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.8",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE078",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/11.jpg",
+      "product_name": "Sony Headphones Model 259",
+      "brand": "Bose",
+      "price": "12604.50",
+      "discount": "15",
+      "final_price": "10713.83",
+      "description": "The Sony Headphones Model 259 by Bose offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.6",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE079",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/12.jpg",
+      "product_name": "Sennheiser Headphones Model 635",
+      "brand": "Beats",
+      "price": "21007.50",
+      "discount": "20",
+      "final_price": "16806.00",
+      "description": "The Sennheiser Headphones Model 635 by Beats offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.8",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE080",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/13.jpg",
+      "product_name": "Bose Headphones Model 557",
+      "brand": "Bose",
+      "price": "12604.50",
+      "discount": "40",
+      "final_price": "10713.83",
+      "description": "The Bose Headphones Model 557 by Bose offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.8",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE081",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/14.jpg",
+      "product_name": "Sony Headphones Model 771",
+      "brand": "Sennheiser",
+      "price": "21007.50",
+      "discount": "5",
+      "final_price": "19957.12",
+      "description": "The Sony Headphones Model 771 by Sennheiser offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.6",
+      "stock_status": "Out of Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE082",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/15.jpg",
+      "product_name": "Beats Headphones Model 602",
+      "brand": "Sennheiser",
+      "price": "12604.50",
+      "discount": "10",
+      "final_price": "11344.05",
+      "description": "The Beats Headphones Model 602 by Sennheiser offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.0",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE083",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/16.jpg",
+      "product_name": "Sennheiser Headphones Model 415",
+      "brand": "Sony",
+      "price": "8403.00",
+      "discount": "20",
+      "final_price": "6722.40",
+      "description": "The Sennheiser Headphones Model 415 by Sony offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.6",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE084",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/17.jpg",
+      "product_name": "Sony Headphones Model 937",
+      "brand": "Sony",
+      "price": "21007.50",
+      "discount": "5",
+      "final_price": "19957.12",
+      "description": "The Sony Headphones Model 937 by Sony offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.3",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE085",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/18.jpg",
+      "product_name": "Beats Headphones Model 148",
+      "brand": "Sennheiser",
+      "price": "25209.00",
+      "discount": "25",
+      "final_price": "18906.75",
+      "description": "The Beats Headphones Model 148 by Sennheiser offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.5",
+      "stock_status": "Out of Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE086",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/19.jpg",
+      "product_name": "Bose Headphones Model 766",
+      "brand": "JBL",
+      "price": "21007.50",
+      "discount": "10",
+      "final_price": "18906.75",
+      "description": "The Bose Headphones Model 766 by JBL offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.7",
+      "stock_status": "Out of Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE087",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/2.jpg",
+      "product_name": "Beats Headphones Model 126",
+      "brand": "Sennheiser",
+      "price": "12604.50",
+      "discount": "15",
+      "final_price": "10713.83",
+      "description": "The Beats Headphones Model 126 by Sennheiser offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.2",
+      "stock_status": "Out of Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE088",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/20.jpg",
+      "product_name": "Sennheiser Headphones Model 388",
+      "brand": "Bose",
+      "price": "12604.50",
+      "discount": "15",
+      "final_price": "10713.83",
+      "description": "The Sennheiser Headphones Model 388 by Bose offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "5.0",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE089",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/21.jpg",
+      "product_name": "Sennheiser Headphones Model 960",
+      "brand": "Sennheiser",
+      "price": "8403.00",
+      "discount": "20",
+      "final_price": "6722.40",
+      "description": "The Sennheiser Headphones Model 960 by Sennheiser offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.0",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE090",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/22.jpg",
+      "product_name": "Sennheiser Headphones Model 443",
+      "brand": "Sony",
+      "price": "21007.50",
+      "discount": "5",
+      "final_price": "19957.12",
+      "description": "The Sennheiser Headphones Model 443 by Sony offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.2",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE091",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/23.jpg",
+      "product_name": "Sony Headphones Model 543",
+      "brand": "Sennheiser",
+      "price": "8403.00",
+      "discount": "20",
+      "final_price": "6722.40",
+      "description": "The Sony Headphones Model 543 by Sennheiser offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.6",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE092",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/24.jpg",
+      "product_name": "Sony Headphones Model 546",
+      "brand": "Beats",
+      "price": "25209.00",
+      "discount": "10",
+      "final_price": "22688.10",
+      "description": "The Sony Headphones Model 546 by Beats offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.1",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE093",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/25.png",
+      "product_name": "Sony Headphones Model 488",
+      "brand": "Sony",
+      "price": "21007.50",
+      "discount": "20",
+      "final_price": "16806.00",
+      "description": "The Sony Headphones Model 488 by Sony offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.2",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE094",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/3.jpg",
+      "product_name": "Sony Headphones Model 256",
+      "brand": "Bose",
+      "price": "12604.50",
+      "discount": "10",
+      "final_price": "11344.05",
+      "description": "The Sony Headphones Model 256 by Bose offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.1",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE095",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/4.jpg",
+      "product_name": "Sony Headphones Model 133",
+      "brand": "Sennheiser",
+      "price": "8403.00",
+      "discount": "25",
+      "final_price": "6302.25",
+      "description": "The Sony Headphones Model 133 by Sennheiser offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.8",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE096",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/5.jpg",
+      "product_name": "Sony Headphones Model 101",
+      "brand": "JBL",
+      "price": "16806.00",
+      "discount": "15",
+      "final_price": "14285.10",
+      "description": "The Sony Headphones Model 101 by JBL offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.5",
+      "stock_status": "Out of Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE097",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/6.jpg",
+      "product_name": "Beats Headphones Model 889",
+      "brand": "Sony",
+      "price": "21007.50",
+      "discount": "5",
+      "final_price": "19957.12",
+      "description": "The Beats Headphones Model 889 by Sony offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.7",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE098",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/7.jpg",
+      "product_name": "Bose Headphones Model 835",
+      "brand": "Sony",
+      "price": "12604.50",
+      "discount": "25",
+      "final_price": "9453.38",
+      "description": "The Bose Headphones Model 835 by Sony offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "4.4",
+      "stock_status": "In Stock",
+      "warranty": "2 year"
+    },
+    {
+      "product_id": "MSE099",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/8.jpg",
+      "product_name": "Beats Headphones Model 597",
+      "brand": "JBL",
+      "price": "12604.50",
+      "discount": "20",
+      "final_price": "10083.60",
+      "description": "The Beats Headphones Model 597 by JBL offers a seamless user experience with its top-of-the-line performance, long-lasting battery, and advanced camera system. Whether you're gaming, streaming, or capturing memories, this smartphone delivers high-quality output in every scenario, making it a must-have for tech enthusiasts.",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Over-Ear",
+            "Wireless"
+          ]
+        },
+        {
+          "Battery Life": [
+            "30 hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active",
+            "Adaptive"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth 5.0",
+            "USB-C Charging"
+          ]
+        }
+      ],
+      "ratings": "5.0",
+      "stock_status": "In Stock",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "MSE104",
+      "category": "headphone",
+      "image": "http://localhost:5000/products/images/headphones/download (1).jpg",
+      "product_name": "Rockerz 450",
+      "brand": "boAt",
+      "price": "10999",
+      "discount": "70",
+      "final_price": "3299.7",
+      "description": "boAt Rockerz 450 Bluetooth On Ear Headphones with Mic, Upto 15 Hours Playback, 40MM Drivers, Padded Ear Cushions, Integrated Controls and Dual Modes",
+      "detailed_specifications": [
+        {
+          "Type": [
+            "Wire Less"
+          ]
+        },
+        {
+          "Battery Life": [
+            "15 Hours"
+          ]
+        },
+        {
+          "Noise Cancellation": [
+            "Active Noise Cancellation"
+          ]
+        },
+        {
+          "Connectivity": [
+            "Bluetooth",
+            "Wifi"
+          ]
+        }
+      ],
+      "ratings": 0,
+      "stock_status": "In Stock",
+      "warranty": "1 Year"
+    }
+  ]
+}

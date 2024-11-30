@@ -1,0 +1,172 @@
+{
+	"bhavesh_1724": {
+		"name": "Bhavesh Patel",
+		"birthDate": "12 May 1998",
+		"age": 26,
+		"gender": "Male",
+		"address": {
+			"suite": "Flat 12",
+			"street": "Nava Naroda Road",
+			"city": "Ahmedabad",
+			"state": "Gujarat"
+		},
+		"phone": "+91-9876543211",
+		"email": "bhavesh.patel@example.com",
+		"password": "bhaveshPassword123",
+		"isLogin": false,
+		"isAgree": true
+	},
+	"suresh_1403": {
+		"name": "Suresh Mehta",
+		"birthDate": "10 Jan 1988",
+		"age": 35,
+		"gender": "Male",
+		"address": {
+			"suite": "Block B, Flat 5",
+			"street": "Vastrapur Lake Road",
+			"city": "Ahmedabad",
+			"state": "Gujarat"
+		},
+		"phone": "+91-9988776655",
+		"email": "suresh.mehta@example.com",
+		"password": "sureshPassword456",
+		"isLogin": true,
+		"isAgree": true
+	},
+	"priya_0809": {
+		"name": "Priya Desai",
+		"birthDate": "22 Aug 1999",
+		"age": 24,
+		"gender": "Female",
+		"address": {
+			"suite": "Suite 202",
+			"street": "Near Sabarmati River",
+			"city": "Ahmedabad",
+			"state": "Gujarat"
+		},
+		"phone": "+91-9123456789",
+		"email": "priya.desai@example.com",
+		"password": "priyaPassword789",
+		"isLogin": true,
+		"isAgree": false
+	},
+	"manish_2356": {
+		"name": "Manish Kumar",
+		"birthDate": "14 Feb 1994",
+		"age": 30,
+		"gender": "Male",
+		"address": {
+			"suite": "A-101",
+			"street": "Makarba Road",
+			"city": "Ahmedabad",
+			"state": "Gujarat"
+		},
+		"phone": "+91-8765432109",
+		"email": "manish.kumar@example.com",
+		"password": "manishPassword321",
+		"isLogin": false,
+		"isAgree": true
+	},
+	"neha_0910": {
+		"name": "Neha Shah",
+		"birthDate": "18 Jul 1996",
+		"age": 27,
+		"gender": "Female",
+		"address": {
+			"suite": "Flat 15",
+			"street": "C.G. Road",
+			"city": "Ahmedabad",
+			"state": "Gujarat"
+		},
+		"phone": "+91-9654321987",
+		"email": "neha.shah@example.com",
+		"password": "nehaPassword654",
+		"isLogin": true,
+		"isAgree": true
+	},
+	"rajesh_3007": {
+		"name": "Rajesh Thakkar",
+		"birthDate": "05 Mar 1991",
+		"age": 32,
+		"gender": "Male",
+		"address": {
+			"suite": "B-204",
+			"street": "S.G. Highway",
+			"city": "Ahmedabad",
+			"state": "Gujarat"
+		},
+		"phone": "+91-8765432101",
+		"email": "rajesh.thakkar@example.com",
+		"password": "rajeshPassword987",
+		"isLogin": false,
+		"isAgree": false
+	},
+	"ketan_1122": {
+		"name": "Ketan Joshi",
+		"birthDate": "29 Nov 1995",
+		"age": 29,
+		"gender": "Male",
+		"address": {
+			"suite": "Flat 3",
+			"street": "Ashram Road",
+			"city": "Ahmedabad",
+			"state": "Gujarat"
+		},
+		"phone": "+91-9999888777",
+		"email": "ketan.joshi@example.com",
+		"password": "ketanPassword543",
+		"isLogin": true,
+		"isAgree": true
+	},
+	"isha_0714": {
+		"name": "Isha Mehta",
+		"birthDate": "30 Apr 1998",
+		"age": 26,
+		"gender": "Female",
+		"address": {
+			"suite": "C-403",
+			"street": "Bopal Road",
+			"city": "Ahmedabad",
+			"state": "Gujarat"
+		},
+		"phone": "+91-9870123456",
+		"email": "isha.mehta@example.com",
+		"password": "ishaPassword765",
+		"isLogin": false,
+		"isAgree": true
+	},
+	"nikhil_2203": {
+		"name": "Nikhil Vyas",
+		"birthDate": "21 Dec 1993",
+		"age": 31,
+		"gender": "Male",
+		"address": {
+			"suite": "Flat 8",
+			"street": "Vijay Cross Road",
+			"city": "Ahmedabad",
+			"state": "Gujarat"
+		},
+		"phone": "+91-9988775544",
+		"email": "nikhil.vyas@example.com",
+		"password": "nikhilPassword432",
+		"isLogin": true,
+		"isAgree": true
+	},
+	"anjali_1506": {
+		"name": "Anjali Shah",
+		"birthDate": "10 Jun 1998",
+		"age": 25,
+		"gender": "Female",
+		"address": {
+			"suite": "D-107",
+			"street": "Navrangpura",
+			"city": "Ahmedabad",
+			"state": "Gujarat"
+		},
+		"phone": "+91-9988998877",
+		"email": "anjali.shah@example.com",
+		"password": "anjaliPassword210",
+		"isLogin": true,
+		"isAgree": false
+	}
+}
