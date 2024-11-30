@@ -10,7 +10,7 @@ import LoadImage from "../Fallback/LoadImage";
 
 export const fetchProductData = async(data,handler,id) =>{
 	try{
-		const response = await axios.get(`https://meshop-hx32.onrender.com/api/products/id/${id}`)
+		const response = await axios.get(`https://meshop-r6ed.onrender.com//api/products/id/${id}`)
 		if(response.status == 200){
 				console.log( response.data);
 				

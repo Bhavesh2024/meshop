@@ -8,7 +8,7 @@ export const addToCart = createAsyncThunk(
 	async ({ productId, username }, { rejectWithValue }) => {
 		try {
 			const response = await axios.post(
-				`https://meshop-hx32.onrender.com/api/users/${username}/cart/${productId}`,
+				`https://meshop-r6ed.onrender.com//api/users/${username}/cart/${productId}`,
 				{
 					username,
 					product_id: productId,
@@ -29,7 +29,7 @@ export const deleteFromCart = createAsyncThunk(
 	async ({ productId, username }, { rejectWithValue }) => {
 		try {
 			const response = await axios.delete(
-				`https://meshop-hx32.onrender.com/api/users/${username}/cart/${productId}`
+				`https://meshop-r6ed.onrender.com//api/users/${username}/cart/${productId}`
 			);
 			if (response.status === 200) {
 				return { productId, username };
@@ -46,7 +46,7 @@ export const initUserCartData = createAsyncThunk(
 	async ({ username }, { rejectWithValue }) => {
 		try {
 			const response = await axios.get(
-				`https://meshop-hx32.onrender.com/api/users/${username}/cart`
+				`https://meshop-r6ed.onrender.com//api/users/${username}/cart`
 			);
 			return response.data; // Expected format: { username: "bhavesh_1724", cart: ["MSE004"] }
 		} catch (error) {

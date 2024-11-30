@@ -24,7 +24,7 @@ const Home = ({ withCarousel }) => {
 		if (user) {
 			try {
 				const request = await axios.get(
-					`https://meshop-hx32.onrender.com/api/users/${user}`,{withCredentials:true}
+					`https://meshop-r6ed.onrender.com//api/users/${user}`,{withCredentials:true}
 				);
 
 				if (request.status === 200) {

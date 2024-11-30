@@ -12,7 +12,7 @@ const AddToCartBtn = ({ productId,style = '' }) => {
 	const fetchUserCart = async () => {
 		try {
 			const response = await axios.get(
-				`https://meshop-hx32.onrender.com/api/users/${username}/cart`
+				`https://meshop-r6ed.onrender.com//api/users/${username}/cart`
 			);
 			if (response.status == 200) {
 				if (response.data.cart.length != 0) {

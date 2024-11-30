@@ -17,7 +17,7 @@ const Product = () => {
 	const getProductDetail = async (id) => {
 		try {
 			const response = await axios.get(
-				`https://meshop-hx32.onrender.com/api/products/id/${id}`
+				`https://meshop-r6ed.onrender.com//api/products/id/${id}`
 			);
 
 			if (response.status == 200) {

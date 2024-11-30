@@ -29,7 +29,7 @@ const AdminLogin = () => {
 
 	const handleAdminLogin = async() =>{
 		try{
-			const request = await axios.post('https://meshop-hx32.onrender.com/admin/login',loginData,{withCredentials:true});
+			const request = await axios.post('https://meshop-r6ed.onrender.com//admin/login',loginData,{withCredentials:true});
 			if(request.status == 200){
 				localStorage.setItem('user','admin');
 				localStorage.setItem(
